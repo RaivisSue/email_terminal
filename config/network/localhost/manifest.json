@@ -2,10 +2,10 @@
     "serverAddress": "localhost",
     "serverName": "FBI D20 Intranet",
     "iconName": "Moon-icon.png",
-    "terminalID": "D20",
+    "terminalID": "fbi",
     "defaultUser": {
-        "userId": "moon",
-        "password": "1123",
+        "userId": "user",
+        "password": "",
         "userName": "Lucy Bates"
     },
     "initialHistory": {
