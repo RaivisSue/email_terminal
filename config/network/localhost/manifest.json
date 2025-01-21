@@ -1,7 +1,7 @@
 {
     "serverAddress": "localhost",
     "serverName": "FBI D20 Intranet",
-    "iconName": "fbi.png",
+    "iconName": "Moon-icon.png",
     "terminalID": "D20",
     "defaultUser": {
         "userId": "daybitzemvoid",
