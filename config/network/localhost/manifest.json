@@ -1,12 +1,12 @@
 {
     "serverAddress": "localhost",
-    "serverName": "Node Y56 Intranet",
-    "iconName": "Moon-icon.png",
-    "terminalID": "Y56",
+    "serverName": "FBI D20 Intranet",
+    "iconName": "fbi.png",
+    "terminalID": "D20",
     "defaultUser": {
-        "userId": "user",
-        "password": "",
-        "userName": "anonymous"
+        "userId": "Daybitzemvoid",
+        "password": "void",
+        "userName": "Daybit"
     },
     "initialHistory": {
         "user": [
